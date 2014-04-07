@@ -1,0 +1,742 @@
+TASCSVGtoBezierDemo
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/PrecompiledHeaders/ASCSVGtoBezierDemo-Prefix-bkzenuoweajcetdhodqxruneksji/ASCSVGtoBezierDemo-Prefix.pch.pch ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCAppDelegate.o /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/main.o /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCSVGToBezier.o /Users/aurelienscelles/GitHUB/ASCSVGToBezier/Classes/ASCSVGToBezier.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCViewController.o /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/ASCSVGtoBezierDemo normal i386
+cCopyStringsFile /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/en.lproj/InfoPlist.strings ASCSVGtoBezierDemo/en.lproj/InfoPlist.strings
+cCpResource ASCSVGtoBezierDemo/hello.svg Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/hello.svg
+cCompileStoryboard /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/Images.xcassets
+cProcessInfoPlistFile /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/Info.plist /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Info.plist
+cGenerateDSYMFile /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app.dSYM /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/ASCSVGtoBezierDemo
+cTouch /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531F0B0600000000000003B4
+t1394543366
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F0B0F000000000000019E
+t1394543375
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531F0B10000000000058E0E0
+t1394543376
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531F0B1100000000005B82F0
+t1394543377
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000531F0B110000000000446820
+t1394543377
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000531F0B1100000000003599D0
+t1394543377
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531F0B1100000000002FC3B0
+t1394543377
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531F0B11000000000004B000
+t1394543377
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531F0B12000000000088D8C0
+t1394543378
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000531F0B140000000000037680
+t1394543380
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531F0B14000000000048F720
+t1394543380
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531F0B14000000000013FD70
+t1394543380
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531F0B160000000001F1DE10
+t1394543382
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531F0B2900000000002BC360
+t1394543401
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000531F0B300000000000002338
+t1394543408
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000531F0B31000000000008D370
+t1394543409
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000531F0B310000000000392E20
+t1394543409
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c00000000530E73AB00000000000141F0
+t1393456043
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000531F0B310000000000014A80
+t1394543409
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000531F0B310000000000033BA0
+t1394543409
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000531F0B31000000000001CFB0
+t1394543409
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000531F0B31000000000001B2B0
+t1394543409
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000531F0B3100000000000C9570
+t1394543409
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531F0B310000000000063280
+t1394543409
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000531F0B310000000000008880
+t1394543409
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000531F0B310000000000015080
+t1394543409
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000531F0B3100000000000230F0
+t1394543409
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000531F0B31000000000000E380
+t1394543409
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531F0B310000000000089380
+t1394543409
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000531F0B310000000000017320
+t1394543409
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000531F0B310000000000039CD0
+t1394543409
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000531F0B31000000000000B0B0
+t1394543409
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000531F0B310000000000167E80
+t1394543409
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000531F0B3100000000000106A0
+t1394543409
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000531F0B31000000000001CE40
+t1394543409
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000531F0B3100000000000740C0
+t1394543409
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000531F0B31000000000006CA60
+t1394543409
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000531F0B31000000000001BAD0
+t1394543409
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531F0B310000000000084A20
+t1394543409
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531F0B360000000000000ADC
+t1394543414
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000531F0B36000000000000514C
+t1394543414
+s20812
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCAppDelegate.h
+c000000005343193C0000000000000135
+t1396906300
+s309
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCAppDelegate.m
+c000000005343193C00000000000007FA
+t1396906300
+s2042
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Info.plist
+c000000005343193C00000000000004C9
+t1396906300
+s1225
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Prefix.pch
+c000000005343193C0000000000000158
+t1396906300
+s344
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCViewController.h
+c000000005343193C00000000000000F7
+t1396906300
+s247
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCViewController.m
+c0000000053432DE10000000000000C26
+t1396911585
+s3110
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/Base.lproj/Main.storyboard
+c000000005343193C000000000000071E
+t1396906300
+s1822
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/Images.xcassets
+c000000005343193C0000000000000088
+t1396906300
+s136
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/en.lproj/InfoPlist.strings
+c000000005343193C000000000000002D
+t1396906300
+s45
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/hello.svg
+c0000000053432CF5000000000000142C
+t1396911349
+s5164
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/main.m
+c000000005343193C0000000000000171
+t1396906300
+s369
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCAppDelegate.o
+t1396910732
+s62600
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCSVGToBezier.o
+t1396911280
+s46020
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCSVGtoBezierDemo.LinkFileList
+c0000000053432A8B00000000000002FD
+t1396910731
+s765
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCViewController.o
+t1396911586
+s52544
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/main.o
+t1396910732
+s3632
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/assetcatalog_dependencies.txt
+t1396910733
+s493
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/assetcatalog_generated_info.plist
+t1396910733
+s525
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/PrecompiledHeaders/ASCSVGtoBezierDemo-Prefix-bkzenuoweajcetdhodqxruneksji/ASCSVGtoBezierDemo-Prefix.pch.pch
+t1396910732
+s123068
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app
+t1396911586
+s340
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app.dSYM
+t1396911586
+s102
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/ASCSVGtoBezierDemo
+t1396911586
+s44004
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/Base.lproj/Main.storyboardc
+t1396910733
+s170
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/Info.plist
+t1396910733
+s1050
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/PkgInfo
+t1396910733
+s8
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/en.lproj/InfoPlist.strings
+t1396910732
+s42
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/hello.svg
+t1396911353
+s5164
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/Classes/ASCSVGToBezier.h
+c0000000053432ACF0000000000000191
+t1396910799
+s401
+
+N/Users/aurelienscelles/GitHUB/ASCSVGToBezier/Classes/ASCSVGToBezier.m
+c0000000053432B660000000000001ED8
+t1396910950
+s7896
+
+N/usr/lib/libSystem.B.dylib
+c0000000052677745000000000000E6D0
+t1382512453
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000526777580000000000012A00
+t1382512472
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052677733000000000002E320
+t1382512435
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000526777450000000000021860
+t1382512453
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052677757000000000001B620
+t1382512471
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005267775700000000000BD920
+t1382512471
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c00000000530E73AB00000000000141F0
+t1393456043
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052677758000000000000A120
+t1382512472
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c00000000530E73AB000000000001D550
+t1393456043
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000526777560000000000014EE0
+t1382512470
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005267775A0000000000010380
+t1382512474
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005267775A000000000000C4C0
+t1382512474
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005267775800000000000357A0
+t1382512472
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052677758000000000000C070
+t1382512472
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530299D10000000000168D00
+t1392679377
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000530E73AB0000000000010630
+t1393456043
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c00000000530E73AB000000000001DF10
+t1393456043
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000526777450000000000075B00
+t1382512453
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c00000000530299D0000000000007CCE0
+t1392679376
+s511200
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005267774500000000000766C0
+t1382512453
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530299D00000000000044DC0
+t1392679376
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000526777450000000000021FA0
+t1382512453
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000530E73AB000000000002D920
+t1393456043
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052677758000000000001E570
+t1382512472
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c00000000530E73AB000000000000CC70
+t1393456043
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000052677751000000000000C3F0
+t1382512465
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005267775900000000000199F0
+t1382512473
+s104944
+
+CBuild AST from /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCAppDelegate.m
+r0
+
+CBuild AST from /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCViewController.m
+r0
+
+CBuild AST from /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/main.m
+r0
+
+CBuild AST from /Users/aurelienscelles/GitHUB/ASCSVGToBezier/Classes/ASCSVGToBezier.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesbb0aa5df65f3b841^8863a5df65f3b841^---0#1#1#--18"Check dependencies36"32FE3176-C3E8-414A-8102-025150DB12B8-
+
+CCompileAssetCatalog /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/Images.xcassets
+s418603532.938540
+e418603533.803849
+r1
+xCompileAssetCatalog
+x/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app
+x/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/LaunchImage-700-568h@2x.png
+o/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/Assets.car
+o/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"CompileAssetCatalog Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app ASCSVGtoBezierDemo/Images.xcassets114"CompileAssetCatalog Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app ASCSVGtoBezierDemo/Images.xcassetsea59f00c62f3b841^d6c9cd0d62f3b841^-521"/* com.apple.actool.compilation-results *//Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/LaunchImage-700-568h@2x.png/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/Assets.car/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@106"file:///Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/Images.xcassets/0000000000000000^1351"CompileAssetCatalog Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app ASCSVGtoBezierDemo/Images.xcassets    cd /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/Images.xcassets36"E2CB1750-EA69-4855-A469-78BBCCD49E8D-
+b8E9B19EE-62F6-40F2-8518-51DD6B61722E
+
+CCompileC Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCAppDelegate.o /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418603532.648541
+e418603532.902103
+r1
+xCompileC
+xBuild/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCAppDelegate.o
+x/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCAppDelegate.m
+d/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCAppDelegate.m241"CompileC Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCAppDelegate.o ASCSVGtoBezierDemo/ASCAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere61ea60c62f3b841^52f2e60c62f3b841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCAppDelegate.m0000000000000000^4337"CompileC Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCAppDelegate.o ASCSVGtoBezierDemo/ASCAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/aurelienscelles/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/ASCSVGtoBezierDemo-generated-files.hmap -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/ASCSVGtoBezierDemo-own-target-headers.hmap -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/ASCSVGtoBezierDemo-all-target-headers.hmap -iquote /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/ASCSVGtoBezierDemo-project-headers.hmap -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/DerivedSources/i386 -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/DerivedSources -F/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator -include /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/PrecompiledHeaders/ASCSVGtoBezierDemo-Prefix-bkzenuoweajcetdhodqxruneksji/ASCSVGtoBezierDemo-Prefix.pch -MMD -MT dependencies -MF /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCAppDelegate.d --serialize-diagnostics /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCAppDelegate.dia -c /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCAppDelegate.m -o /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCAppDelegate.o36"695484BF-EC2B-4F64-A5A0-27296E01B0BF-
+b8E9B19EE-62F6-40F2-8518-51DD6B61722E
+
+CCompileC Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCSVGToBezier.o /Users/aurelienscelles/GitHUB/ASCSVGToBezier/Classes/ASCSVGToBezier.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418604080.039942
+e418604080.105307
+r1
+xCompileC
+xBuild/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCSVGToBezier.o
+x/Users/aurelienscelles/GitHUB/ASCSVGToBezier/Classes/ASCSVGToBezier.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/aurelienscelles/GitHUB/ASCSVGToBezier/Classes/ASCSVGToBezier.m
+d/Users/aurelienscelles/GitHUB/ASCSVGToBezier/Classes/ASCSVGToBezier.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/aurelienscelles/GitHUB/ASCSVGToBezier/Classes/ASCSVGToBezier.m275"CompileC Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCSVGToBezier.o /Users/aurelienscelles/GitHUB/ASCSVGToBezier/Classes/ASCSVGToBezier.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler61540a3064f3b841^62f61a3064f3b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/aurelienscelles/GitHUB/ASCSVGToBezier/Classes/ASCSVGToBezier.m0000000000000000^4341"CompileC Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCSVGToBezier.o /Users/aurelienscelles/GitHUB/ASCSVGToBezier/Classes/ASCSVGToBezier.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/aurelienscelles/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/ASCSVGtoBezierDemo-generated-files.hmap -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/ASCSVGtoBezierDemo-own-target-headers.hmap -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/ASCSVGtoBezierDemo-all-target-headers.hmap -iquote /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/ASCSVGtoBezierDemo-project-headers.hmap -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/DerivedSources/i386 -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/DerivedSources -F/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator -include /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/PrecompiledHeaders/ASCSVGtoBezierDemo-Prefix-bkzenuoweajcetdhodqxruneksji/ASCSVGtoBezierDemo-Prefix.pch -MMD -MT dependencies -MF /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCSVGToBezier.d --serialize-diagnostics /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCSVGToBezier.dia -c /Users/aurelienscelles/GitHUB/ASCSVGToBezier/Classes/ASCSVGToBezier.m -o /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCSVGToBezier.o36"E2329EB4-B435-4E0C-9DCC-67F8AFB6E319-
+bE9154E8E-B607-4819-937B-2BEEF6410776
+
+CCompileC Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCViewController.o /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418604386.100720
+e418604386.166611
+r1
+xCompileC
+xBuild/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCViewController.o
+x/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCViewController.m
+d/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCViewController.h
+d/Users/aurelienscelles/GitHUB/ASCSVGToBezier/Classes/ASCSVGToBezier.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCViewController.m247"CompileC Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCViewController.o ASCSVGtoBezierDemo/ASCViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercede196265f3b841^4caa2a6265f3b841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCViewController.m0000000000000000^4355"CompileC Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCViewController.o ASCSVGtoBezierDemo/ASCViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/aurelienscelles/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/ASCSVGtoBezierDemo-generated-files.hmap -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/ASCSVGtoBezierDemo-own-target-headers.hmap -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/ASCSVGtoBezierDemo-all-target-headers.hmap -iquote /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/ASCSVGtoBezierDemo-project-headers.hmap -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/DerivedSources/i386 -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/DerivedSources -F/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator -include /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/PrecompiledHeaders/ASCSVGtoBezierDemo-Prefix-bkzenuoweajcetdhodqxruneksji/ASCSVGtoBezierDemo-Prefix.pch -MMD -MT dependencies -MF /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCViewController.d --serialize-diagnostics /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCViewController.dia -c /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCViewController.m -o /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCViewController.o36"B70415BB-FA11-4A7A-B2CE-47D5DE29240E-
+bA9D88DED-E882-4CAD-BFA3-891FB558B90C
+
+CCompileC Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/main.o /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418603532.648802
+e418603532.808539
+r1
+xCompileC
+xBuild/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/main.o
+x/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/main.m
+d/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/main.m221"CompileC Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/main.o ASCSVGtoBezierDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler732da60c62f3b841^09ffce0c62f3b841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/main.m0000000000000000^4277"CompileC Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/main.o ASCSVGtoBezierDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/aurelienscelles/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/ASCSVGtoBezierDemo-generated-files.hmap -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/ASCSVGtoBezierDemo-own-target-headers.hmap -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/ASCSVGtoBezierDemo-all-target-headers.hmap -iquote /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/ASCSVGtoBezierDemo-project-headers.hmap -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/DerivedSources/i386 -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/DerivedSources -F/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator -include /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/PrecompiledHeaders/ASCSVGtoBezierDemo-Prefix-bkzenuoweajcetdhodqxruneksji/ASCSVGtoBezierDemo-Prefix.pch -MMD -MT dependencies -MF /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/main.dia -c /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/main.m -o /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/main.o36"400A5A12-D7DC-4EA3-A8A6-3E3B7AFA92B3-
+b8E9B19EE-62F6-40F2-8518-51DD6B61722E
+
+CCompileStoryboard /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/Base.lproj/Main.storyboard
+s418603532.938204
+e418603533.913487
+r1
+xCompileStoryboard
+x/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"CompileStoryboard ASCSVGtoBezierDemo/Base.lproj/Main.storyboard63"CompileStoryboard ASCSVGtoBezierDemo/Base.lproj/Main.storyboardea3ef00c62f3b841^bedae90d62f3b841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/Base.lproj/Main.storyboard0000000000000000^947"CompileStoryboard ASCSVGtoBezierDemo/Base.lproj/Main.storyboard    cd /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/Base.lproj/Main.storyboardc /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/Base.lproj/Main.storyboard36"7D9EB6BB-0D23-4A99-BE59-7358914E481C-
+b8E9B19EE-62F6-40F2-8518-51DD6B61722E
+
+CCopyStringsFile /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/en.lproj/InfoPlist.strings ASCSVGtoBezierDemo/en.lproj/InfoPlist.strings
+s418603532.937909
+e418603532.939103
+r1
+xCopyStringsFile
+x/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/en.lproj/InfoPlist.strings
+xASCSVGtoBezierDemo/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy ASCSVGtoBezierDemo/en.lproj/InfoPlist.strings148"CopyStringsFile Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/en.lproj/InfoPlist.strings ASCSVGtoBezierDemo/en.lproj/InfoPlist.strings512ff00c62f3b841^ef73f00c62f3b841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/en.lproj/InfoPlist.strings0000000000000000^687"CopyStringsFile Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/en.lproj/InfoPlist.strings ASCSVGtoBezierDemo/en.lproj/InfoPlist.strings    cd /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/en.lproj -- ASCSVGtoBezierDemo/en.lproj/InfoPlist.strings36"BD2F384B-28DF-42AB-B33A-B9796BC3FB02-
+b8E9B19EE-62F6-40F2-8518-51DD6B61722E
+
+CCpResource ASCSVGtoBezierDemo/hello.svg Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/hello.svg
+s418604153.921945
+e418604153.922850
+r1
+xCpResource
+xASCSVGtoBezierDemo/hello.svg
+xBuild/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/hello.svg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/hello.svg109"CpResource ASCSVGtoBezierDemo/hello.svg Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/hello.svg6f11ec7964f3b841^ac73ec7964f3b841^---0#0#1#-19%DVTDocumentLocation2@140"file:///Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/hello.svg0000000000000000^705"CpResource ASCSVGtoBezierDemo/hello.svg Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/hello.svg    cd /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/hello.svg /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app36"E18CC816-EFF9-4445-89C9-FFF109A4A992-
+bDFE6B169-1B8D-45EE-857C-E827F9720844
+
+CCpResource ASCSVGtoBezierDemo/hello_2.svg Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/hello_2.svg
+r0
+
+CGenerateDSYMFile /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app.dSYM /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/ASCSVGtoBezierDemo
+s418604386.207189
+e418604386.222188
+r1
+xGenerateDSYMFile
+x/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app.dSYM
+x/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/ASCSVGtoBezierDemo
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Generate /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app.dSYM160"GenerateDSYMFile Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app.dSYM Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/ASCSVGtoBezierDemod717356265f3b841^e7e1386265f3b841^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app.dSYM/0000000000000000^802"GenerateDSYMFile Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app.dSYM Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/ASCSVGtoBezierDemo    cd /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/ASCSVGtoBezierDemo -o /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app.dSYM36"A56978A8-675A-44E6-9CBC-48325C86B768-
+bA9D88DED-E882-4CAD-BFA3-891FB558B90C
+
+CLd /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/ASCSVGtoBezierDemo normal i386
+s418604386.169813
+e418604386.204240
+r1
+xLd
+x/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/ASCSVGtoBezierDemo
+xnormal
+xi386
+d/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCSVGtoBezierDemo.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCAppDelegate.o
+d/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/main.o
+d/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCSVGToBezier.o
+d/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"Link /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/ASCSVGtoBezierDemo93"Ld Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/ASCSVGtoBezierDemo normal i386ab932b6265f3b841^514a346265f3b841^---0#0#1#--1649"Ld Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/ASCSVGtoBezierDemo normal i386    cd /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator -F/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator -filelist /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCSVGtoBezierDemo.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/Objects-normal/i386/ASCSVGtoBezierDemo_dependency_info.dat -o /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/ASCSVGtoBezierDemo36"A7746621-2EB7-4355-89FA-D859A46002A1-
+bA9D88DED-E882-4CAD-BFA3-891FB558B90C
+
+CProcessInfoPlistFile /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/Info.plist /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Info.plist
+s418603533.914170
+e418603533.916156
+r1
+xProcessInfoPlistFile
+x/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/Info.plist
+x/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Process /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Info.plist140"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/Info.plist ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Info.plistf81aea0d62f3b841^838aea0d62f3b841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Info.plist0000000000000000^1106"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/Info.plist ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Info.plist    cd /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Info.plist -genpkginfo /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/assetcatalog_generated_info.plist -o /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app/Info.plist36"8630C0AC-436B-449C-AA11-7192B87C74C0-
+b8E9B19EE-62F6-40F2-8518-51DD6B61722E
+
+CProcessPCH /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/PrecompiledHeaders/ASCSVGtoBezierDemo-Prefix-bkzenuoweajcetdhodqxruneksji/ASCSVGtoBezierDemo-Prefix.pch.pch ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418603531.769102
+e418603532.647882
+r1
+xProcessPCH
+x/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/PrecompiledHeaders/ASCSVGtoBezierDemo-Prefix-bkzenuoweajcetdhodqxruneksji/ASCSVGtoBezierDemo-Prefix.pch.pch
+xASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Precompile ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Prefix.pch255"ProcessPCH Build/Intermediates/PrecompiledHeaders/ASCSVGtoBezierDemo-Prefix-bkzenuoweajcetdhodqxruneksji/ASCSVGtoBezierDemo-Prefix.pch.pch ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler26fec40b62f3b841^7fdda50c62f3b841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Prefix.pch0000000000000000^4167"ProcessPCH Build/Intermediates/PrecompiledHeaders/ASCSVGtoBezierDemo-Prefix-bkzenuoweajcetdhodqxruneksji/ASCSVGtoBezierDemo-Prefix.pch.pch ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/aurelienscelles/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/ASCSVGtoBezierDemo-generated-files.hmap -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/ASCSVGtoBezierDemo-own-target-headers.hmap -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/ASCSVGtoBezierDemo-all-target-headers.hmap -iquote /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/ASCSVGtoBezierDemo-project-headers.hmap -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/DerivedSources/i386 -I/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/ASCSVGtoBezierDemo.build/Debug-iphonesimulator/ASCSVGtoBezierDemo.build/DerivedSources -F/Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/PrecompiledHeaders/ASCSVGtoBezierDemo-Prefix-bkzenuoweajcetdhodqxruneksji/ASCSVGtoBezierDemo-Prefix.pch.dia -MMD -MT dependencies -MF /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/PrecompiledHeaders/ASCSVGtoBezierDemo-Prefix-bkzenuoweajcetdhodqxruneksji/ASCSVGtoBezierDemo-Prefix.pch.d -c /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Prefix.pch -o /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Intermediates/PrecompiledHeaders/ASCSVGtoBezierDemo-Prefix-bkzenuoweajcetdhodqxruneksji/ASCSVGtoBezierDemo-Prefix.pch.pch36"952D80B4-F2D8-444D-ABEB-E029054EFE28-
+b8E9B19EE-62F6-40F2-8518-51DD6B61722E
+
+CProcessPCH /Users/aurelienscelles/Library/Developer/Xcode/DerivedData/ASCSVGtoBezierDemo-dovfylqzbjvennbvuljmohgqjmdn/Index/PrecompiledHeaders/ASCSVGtoBezierDemo-Prefix-cfblefswxlubppcdwqyewkpkabhc_ast/ASCSVGtoBezierDemo-Prefix.pch.pch ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/aurelienscelles/GitHUB/ASCSVGToBezier/ASCSVGtoBezierDemo/Build/Products/Debug-iphonesimulator/ASCSVGtoBezierDemo.app
+r0
+

@@ -1,0 +1,491 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F6B0C9B318F350BC00AC0380 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6B0C9B218F350BC00AC0380 /* Foundation.framework */; };
+		F6B0C9B518F350BC00AC0380 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6B0C9B418F350BC00AC0380 /* CoreGraphics.framework */; };
+		F6B0C9B718F350BC00AC0380 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6B0C9B618F350BC00AC0380 /* UIKit.framework */; };
+		F6B0C9BD18F350BC00AC0380 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F6B0C9BB18F350BC00AC0380 /* InfoPlist.strings */; };
+		F6B0C9BF18F350BC00AC0380 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F6B0C9BE18F350BC00AC0380 /* main.m */; };
+		F6B0C9C318F350BC00AC0380 /* ASCAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F6B0C9C218F350BC00AC0380 /* ASCAppDelegate.m */; };
+		F6B0C9C618F350BC00AC0380 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F6B0C9C418F350BC00AC0380 /* Main.storyboard */; };
+		F6B0C9C918F350BC00AC0380 /* ASCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F6B0C9C818F350BC00AC0380 /* ASCViewController.m */; };
+		F6B0C9CB18F350BC00AC0380 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6B0C9CA18F350BC00AC0380 /* Images.xcassets */; };
+		F6B0C9D218F350BC00AC0380 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6B0C9D118F350BC00AC0380 /* XCTest.framework */; };
+		F6B0C9D318F350BC00AC0380 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6B0C9B218F350BC00AC0380 /* Foundation.framework */; };
+		F6B0C9D418F350BC00AC0380 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6B0C9B618F350BC00AC0380 /* UIKit.framework */; };
+		F6B0C9DC18F350BC00AC0380 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F6B0C9DA18F350BC00AC0380 /* InfoPlist.strings */; };
+		F6B0C9DE18F350BC00AC0380 /* ASCSVGtoBezierDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F6B0C9DD18F350BC00AC0380 /* ASCSVGtoBezierDemoTests.m */; };
+		F6B0C9EA18F351A300AC0380 /* ASCSVGToBezier.m in Sources */ = {isa = PBXBuildFile; fileRef = F6B0C9E918F351A300AC0380 /* ASCSVGToBezier.m */; };
+		F6B0C9EC18F3528E00AC0380 /* hello.svg in Resources */ = {isa = PBXBuildFile; fileRef = F6B0C9EB18F3528E00AC0380 /* hello.svg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F6B0C9D518F350BC00AC0380 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F6B0C9A718F350BC00AC0380 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F6B0C9AE18F350BC00AC0380;
+			remoteInfo = ASCSVGtoBezierDemo;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F6B0C9AF18F350BC00AC0380 /* ASCSVGtoBezierDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ASCSVGtoBezierDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F6B0C9B218F350BC00AC0380 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		F6B0C9B418F350BC00AC0380 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		F6B0C9B618F350BC00AC0380 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		F6B0C9BA18F350BC00AC0380 /* ASCSVGtoBezierDemo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ASCSVGtoBezierDemo-Info.plist"; sourceTree = "<group>"; };
+		F6B0C9BC18F350BC00AC0380 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		F6B0C9BE18F350BC00AC0380 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F6B0C9C018F350BC00AC0380 /* ASCSVGtoBezierDemo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ASCSVGtoBezierDemo-Prefix.pch"; sourceTree = "<group>"; };
+		F6B0C9C118F350BC00AC0380 /* ASCAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ASCAppDelegate.h; sourceTree = "<group>"; };
+		F6B0C9C218F350BC00AC0380 /* ASCAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ASCAppDelegate.m; sourceTree = "<group>"; };
+		F6B0C9C518F350BC00AC0380 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F6B0C9C718F350BC00AC0380 /* ASCViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ASCViewController.h; sourceTree = "<group>"; };
+		F6B0C9C818F350BC00AC0380 /* ASCViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ASCViewController.m; sourceTree = "<group>"; };
+		F6B0C9CA18F350BC00AC0380 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		F6B0C9D018F350BC00AC0380 /* ASCSVGtoBezierDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ASCSVGtoBezierDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F6B0C9D118F350BC00AC0380 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		F6B0C9D918F350BC00AC0380 /* ASCSVGtoBezierDemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ASCSVGtoBezierDemoTests-Info.plist"; sourceTree = "<group>"; };
+		F6B0C9DB18F350BC00AC0380 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		F6B0C9DD18F350BC00AC0380 /* ASCSVGtoBezierDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ASCSVGtoBezierDemoTests.m; sourceTree = "<group>"; };
+		F6B0C9E818F351A300AC0380 /* ASCSVGToBezier.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASCSVGToBezier.h; sourceTree = "<group>"; };
+		F6B0C9E918F351A300AC0380 /* ASCSVGToBezier.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASCSVGToBezier.m; sourceTree = "<group>"; };
+		F6B0C9EB18F3528E00AC0380 /* hello.svg */ = {isa = PBXFileReference; explicitFileType = text.xml; fileEncoding = 4; path = hello.svg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F6B0C9AC18F350BC00AC0380 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F6B0C9B518F350BC00AC0380 /* CoreGraphics.framework in Frameworks */,
+				F6B0C9B718F350BC00AC0380 /* UIKit.framework in Frameworks */,
+				F6B0C9B318F350BC00AC0380 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F6B0C9CD18F350BC00AC0380 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F6B0C9D218F350BC00AC0380 /* XCTest.framework in Frameworks */,
+				F6B0C9D418F350BC00AC0380 /* UIKit.framework in Frameworks */,
+				F6B0C9D318F350BC00AC0380 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F6B0C9A618F350BC00AC0380 = {
+			isa = PBXGroup;
+			children = (
+				F6B0C9B818F350BC00AC0380 /* ASCSVGtoBezierDemo */,
+				F6B0C9D718F350BC00AC0380 /* ASCSVGtoBezierDemoTests */,
+				F6B0C9B118F350BC00AC0380 /* Frameworks */,
+				F6B0C9B018F350BC00AC0380 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F6B0C9B018F350BC00AC0380 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F6B0C9AF18F350BC00AC0380 /* ASCSVGtoBezierDemo.app */,
+				F6B0C9D018F350BC00AC0380 /* ASCSVGtoBezierDemoTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F6B0C9B118F350BC00AC0380 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F6B0C9B218F350BC00AC0380 /* Foundation.framework */,
+				F6B0C9B418F350BC00AC0380 /* CoreGraphics.framework */,
+				F6B0C9B618F350BC00AC0380 /* UIKit.framework */,
+				F6B0C9D118F350BC00AC0380 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F6B0C9B818F350BC00AC0380 /* ASCSVGtoBezierDemo */ = {
+			isa = PBXGroup;
+			children = (
+				F6B0C9E718F350EF00AC0380 /* Classes */,
+				F6B0C9C118F350BC00AC0380 /* ASCAppDelegate.h */,
+				F6B0C9C218F350BC00AC0380 /* ASCAppDelegate.m */,
+				F6B0C9C418F350BC00AC0380 /* Main.storyboard */,
+				F6B0C9C718F350BC00AC0380 /* ASCViewController.h */,
+				F6B0C9C818F350BC00AC0380 /* ASCViewController.m */,
+				F6B0C9EB18F3528E00AC0380 /* hello.svg */,
+				F6B0C9CA18F350BC00AC0380 /* Images.xcassets */,
+				F6B0C9B918F350BC00AC0380 /* Supporting Files */,
+			);
+			path = ASCSVGtoBezierDemo;
+			sourceTree = "<group>";
+		};
+		F6B0C9B918F350BC00AC0380 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F6B0C9BA18F350BC00AC0380 /* ASCSVGtoBezierDemo-Info.plist */,
+				F6B0C9BB18F350BC00AC0380 /* InfoPlist.strings */,
+				F6B0C9BE18F350BC00AC0380 /* main.m */,
+				F6B0C9C018F350BC00AC0380 /* ASCSVGtoBezierDemo-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F6B0C9D718F350BC00AC0380 /* ASCSVGtoBezierDemoTests */ = {
+			isa = PBXGroup;
+			children = (
+				F6B0C9DD18F350BC00AC0380 /* ASCSVGtoBezierDemoTests.m */,
+				F6B0C9D818F350BC00AC0380 /* Supporting Files */,
+			);
+			path = ASCSVGtoBezierDemoTests;
+			sourceTree = "<group>";
+		};
+		F6B0C9D818F350BC00AC0380 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F6B0C9D918F350BC00AC0380 /* ASCSVGtoBezierDemoTests-Info.plist */,
+				F6B0C9DA18F350BC00AC0380 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F6B0C9E718F350EF00AC0380 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				F6B0C9E818F351A300AC0380 /* ASCSVGToBezier.h */,
+				F6B0C9E918F351A300AC0380 /* ASCSVGToBezier.m */,
+			);
+			name = Classes;
+			path = ../../Classes;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F6B0C9AE18F350BC00AC0380 /* ASCSVGtoBezierDemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F6B0C9E118F350BC00AC0380 /* Build configuration list for PBXNativeTarget "ASCSVGtoBezierDemo" */;
+			buildPhases = (
+				F6B0C9AB18F350BC00AC0380 /* Sources */,
+				F6B0C9AC18F350BC00AC0380 /* Frameworks */,
+				F6B0C9AD18F350BC00AC0380 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ASCSVGtoBezierDemo;
+			productName = ASCSVGtoBezierDemo;
+			productReference = F6B0C9AF18F350BC00AC0380 /* ASCSVGtoBezierDemo.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F6B0C9CF18F350BC00AC0380 /* ASCSVGtoBezierDemoTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F6B0C9E418F350BC00AC0380 /* Build configuration list for PBXNativeTarget "ASCSVGtoBezierDemoTests" */;
+			buildPhases = (
+				F6B0C9CC18F350BC00AC0380 /* Sources */,
+				F6B0C9CD18F350BC00AC0380 /* Frameworks */,
+				F6B0C9CE18F350BC00AC0380 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F6B0C9D618F350BC00AC0380 /* PBXTargetDependency */,
+			);
+			name = ASCSVGtoBezierDemoTests;
+			productName = ASCSVGtoBezierDemoTests;
+			productReference = F6B0C9D018F350BC00AC0380 /* ASCSVGtoBezierDemoTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F6B0C9A718F350BC00AC0380 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = ASC;
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = "Aurélien Scelles";
+				TargetAttributes = {
+					F6B0C9CF18F350BC00AC0380 = {
+						TestTargetID = F6B0C9AE18F350BC00AC0380;
+					};
+				};
+			};
+			buildConfigurationList = F6B0C9AA18F350BC00AC0380 /* Build configuration list for PBXProject "ASCSVGtoBezierDemo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F6B0C9A618F350BC00AC0380;
+			productRefGroup = F6B0C9B018F350BC00AC0380 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F6B0C9AE18F350BC00AC0380 /* ASCSVGtoBezierDemo */,
+				F6B0C9CF18F350BC00AC0380 /* ASCSVGtoBezierDemoTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F6B0C9AD18F350BC00AC0380 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F6B0C9CB18F350BC00AC0380 /* Images.xcassets in Resources */,
+				F6B0C9BD18F350BC00AC0380 /* InfoPlist.strings in Resources */,
+				F6B0C9EC18F3528E00AC0380 /* hello.svg in Resources */,
+				F6B0C9C618F350BC00AC0380 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F6B0C9CE18F350BC00AC0380 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F6B0C9DC18F350BC00AC0380 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F6B0C9AB18F350BC00AC0380 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F6B0C9C318F350BC00AC0380 /* ASCAppDelegate.m in Sources */,
+				F6B0C9BF18F350BC00AC0380 /* main.m in Sources */,
+				F6B0C9EA18F351A300AC0380 /* ASCSVGToBezier.m in Sources */,
+				F6B0C9C918F350BC00AC0380 /* ASCViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F6B0C9CC18F350BC00AC0380 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F6B0C9DE18F350BC00AC0380 /* ASCSVGtoBezierDemoTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F6B0C9D618F350BC00AC0380 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F6B0C9AE18F350BC00AC0380 /* ASCSVGtoBezierDemo */;
+			targetProxy = F6B0C9D518F350BC00AC0380 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		F6B0C9BB18F350BC00AC0380 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F6B0C9BC18F350BC00AC0380 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		F6B0C9C418F350BC00AC0380 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F6B0C9C518F350BC00AC0380 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		F6B0C9DA18F350BC00AC0380 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F6B0C9DB18F350BC00AC0380 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F6B0C9DF18F350BC00AC0380 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		F6B0C9E018F350BC00AC0380 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F6B0C9E218F350BC00AC0380 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Prefix.pch";
+				INFOPLIST_FILE = "ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		F6B0C9E318F350BC00AC0380 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Prefix.pch";
+				INFOPLIST_FILE = "ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		F6B0C9E518F350BC00AC0380 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/ASCSVGtoBezierDemo.app/ASCSVGtoBezierDemo";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "ASCSVGtoBezierDemoTests/ASCSVGtoBezierDemoTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		F6B0C9E618F350BC00AC0380 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/ASCSVGtoBezierDemo.app/ASCSVGtoBezierDemo";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ASCSVGtoBezierDemo/ASCSVGtoBezierDemo-Prefix.pch";
+				INFOPLIST_FILE = "ASCSVGtoBezierDemoTests/ASCSVGtoBezierDemoTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F6B0C9AA18F350BC00AC0380 /* Build configuration list for PBXProject "ASCSVGtoBezierDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F6B0C9DF18F350BC00AC0380 /* Debug */,
+				F6B0C9E018F350BC00AC0380 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F6B0C9E118F350BC00AC0380 /* Build configuration list for PBXNativeTarget "ASCSVGtoBezierDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F6B0C9E218F350BC00AC0380 /* Debug */,
+				F6B0C9E318F350BC00AC0380 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		F6B0C9E418F350BC00AC0380 /* Build configuration list for PBXNativeTarget "ASCSVGtoBezierDemoTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F6B0C9E518F350BC00AC0380 /* Debug */,
+				F6B0C9E618F350BC00AC0380 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F6B0C9A718F350BC00AC0380 /* Project object */;
+}
